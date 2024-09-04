@@ -16,8 +16,8 @@
 ### Demo Screeshots
 
 ![Taskbuddy Desktop Demo](https://raw.githubusercontent.com/devpayoub/Discord-Scama-Trick/main/Images/1.PNG "Desktop Demo")
-![Taskbuddy Desktop Demo](./Images/2.png "Desktop Demo")
-![Taskbuddy Desktop Demo](./Images/3.png "Desktop Demo")
+![Taskbuddy Desktop Demo](https://github.com/devpayoub/Discord-Scama-Trick/blob/main/Images/2.PNG?raw=true "Desktop Demo")
+![Taskbuddy Desktop Demo](https://github.com/devpayoub/Discord-Scama-Trick/blob/main/Images/3.PNG?raw=true "Desktop Demo")
 
 # WARNING 
 **⚠️ Only download vanish from this github repo. unless we say we have another method for downloading. do not download from any discord server. only this github repo. or else you might get ratted or grabbed**
