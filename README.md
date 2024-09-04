@@ -1,7 +1,7 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/devpayoub/CV-Generator-Application)
-  ![GitHub stars](https://img.shields.io/github/stars/devpayoub/CV-Generator-Application?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/devpayoub/Discord-Scama-Trick/)
+  ![GitHub stars](https://img.shields.io/github/stars/devpayoub/Discord-Scama-Trick/?style=social)
   <br />
   <br />
 
