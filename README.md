@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/devpayoub/Discord-Scama-Trick/)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/devpayoub/Discord-Scama-Trick)
   ![GitHub stars](https://img.shields.io/github/stars/devpayoub/Discord-Scama-Trick/?style=social)
   <br />
   <br />
