@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![Taskbuddy Desktop Demo]([./Images/1.png](https://github.com/devpayoub/Discord-Scama-Trick/blob/main/Images/1.PNG) "Desktop Demo")
+![Taskbuddy Desktop Demo](https://raw.githubusercontent.com/devpayoub/Discord-Scama-Trick/main/Images/1.PNG "Desktop Demo")
 ![Taskbuddy Desktop Demo](./Images/2.png "Desktop Demo")
 ![Taskbuddy Desktop Demo](./Images/3.png "Desktop Demo")
 
